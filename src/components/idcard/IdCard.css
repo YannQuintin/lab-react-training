@@ -1,0 +1,22 @@
+
+.id-card {
+    border: solid 2px black;
+    padding: 10px;
+    margin: 15px;
+    display: flex;
+}
+  
+.id-card img {
+    width: 140px;
+    margin: 5px;
+}
+
+.id-card ul {
+	display: flex;
+	flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+	align-items: baseline;
+	align-content: center;
+}
+  
